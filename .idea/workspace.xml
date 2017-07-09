@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1352cdfe-8570-49a8-b66c-c60aaf66e7e9" name="Default" comment="" />
+    <list default="true" id="1352cdfe-8570-49a8-b66c-c60aaf66e7e9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,33 +13,46 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27401">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default-filters.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-includes/default-filters.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="233" column="76" lean-forward="true" selection-start-line="233" selection-start-column="76" selection-end-line="233" selection-end-column="76" />
-              <folding />
+            <state relative-caret-position="681">
+              <caret line="2922" column="35" lean-forward="true" selection-start-line="2922" selection-start-column="35" selection-end-line="2922" selection-end-column="35" />
+              <folding>
+                <marker date="1430929289000" expanded="true" signature="18694:18742" ph="SELECT * FRO... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="80769:80853" ph="SELECT post_... $" />
+                <marker date="1430929289000" expanded="true" signature="82725:82876" ph="SELECT post_... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="83045:83138" ph="SELECT COUNT... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="88864:88904" ph="SELECT * FRO... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="89921:89989" ph="SELECT * FRO... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="90289:90366" ph="SELECT ID FR... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="90781:90846" ph="SELECT comme... wp_comments" />
+                <marker date="1430929289000" expanded="true" signature="90996:91050" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1430929289000" expanded="true" signature="95585:95668" ph="SELECT comme... wp_comments" />
+                <marker date="1430929289000" expanded="true" signature="97495:97595" ph="UPDATE wp_co... " />
+                <marker date="1430929289000" expanded="true" signature="115072:115113" ph="SELECT ID FR... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="124893:124969" ph="SELECT post_... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="126020:126155" ph="SELECT post_... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="127251:127346" ph="SELECT post_... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="135899:135944" ph="SELECT pinge... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="137482:137527" ph="SELECT pinge... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="138113:138159" ph="SELECT to_pi... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="139612:139664" ph="SELECT ID FR... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="141603:141743" ph="SELECT ID, p... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="143230:143328" ph="SELECT ID FR... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="143389:143466" ph="SELECT ID FR... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="154539:154597" ph="SELECT * FRO... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="158734:158774" ph="SELECT * FRO... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="159855:159920" ph="SELECT comme... wp_comments" />
+                <marker date="1430929289000" expanded="true" signature="160071:160125" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1430929289000" expanded="true" signature="160692:160811" ph="SELECT meta_... wp_postmeta" />
+                <marker date="1430929289000" expanded="true" signature="179688:179833" ph="SELECT post_... " />
+                <marker date="1430929289000" expanded="true" signature="179892:180033" ph="SELECT post_... " />
+                <marker date="1430929289000" expanded="true" signature="180094:180288" ph="SELECT DATE_... " />
+                <marker date="1430929289000" expanded="true" signature="190953:191063" ph="SELECT ID FR... wp_posts" />
+                <marker date="1430929289000" expanded="true" signature="192538:192594" ph="SELECT wp_po... wp_posts" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,7 +81,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -172,6 +187,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -206,32 +227,32 @@
       <option name="presentableId" value="Default" />
       <updated>1498232293765</updated>
       <workItem from="1498232296378" duration="110000" />
+      <workItem from="1499079785501" duration="1440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110000" />
+    <option name="totallyTimeSpent" value="1550000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1826923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -240,6 +261,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\http\wordpress423</wordpressPath>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -256,17 +280,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27401">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1430929289000" expanded="true" signature="18694:18742" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="80769:80853" ph="SELECT post_... $" />
+            <marker date="1430929289000" expanded="true" signature="82725:82876" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="83045:83138" ph="SELECT COUNT... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="88864:88904" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="89921:89989" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="90289:90366" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="90781:90846" ph="SELECT comme... wp_comments" />
+            <marker date="1430929289000" expanded="true" signature="90996:91050" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1430929289000" expanded="true" signature="95585:95668" ph="SELECT comme... wp_comments" />
+            <marker date="1430929289000" expanded="true" signature="97495:97595" ph="UPDATE wp_co... " />
+            <marker date="1430929289000" expanded="true" signature="115072:115113" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="124893:124969" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="126020:126155" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="127251:127346" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="135899:135944" ph="SELECT pinge... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="137482:137527" ph="SELECT pinge... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="138113:138159" ph="SELECT to_pi... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="139612:139664" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="141603:141743" ph="SELECT ID, p... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="143230:143328" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="143389:143466" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="154539:154597" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="158734:158774" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="159855:159920" ph="SELECT comme... wp_comments" />
+            <marker date="1430929289000" expanded="true" signature="160071:160125" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1430929289000" expanded="true" signature="160692:160811" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1430929289000" expanded="true" signature="179688:179833" ph="SELECT post_... " />
+            <marker date="1430929289000" expanded="true" signature="179892:180033" ph="SELECT post_... " />
+            <marker date="1430929289000" expanded="true" signature="180094:180288" ph="SELECT DATE_... " />
+            <marker date="1430929289000" expanded="true" signature="190953:191063" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="192538:192594" ph="SELECT wp_po... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/default-filters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="233" column="76" lean-forward="true" selection-start-line="233" selection-start-column="76" selection-end-line="233" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/default-filters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="233" column="76" lean-forward="true" selection-start-line="233" selection-start-column="76" selection-end-line="233" selection-end-column="76" />
+        <state relative-caret-position="3957">
+          <caret line="251" column="73" lean-forward="false" selection-start-line="251" selection-start-column="73" selection-end-line="251" selection-end-column="73" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="2922" column="35" lean-forward="true" selection-start-line="2922" selection-start-column="35" selection-end-line="2922" selection-end-column="35" />
+          <folding>
+            <marker date="1430929289000" expanded="true" signature="18694:18742" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="80769:80853" ph="SELECT post_... $" />
+            <marker date="1430929289000" expanded="true" signature="82725:82876" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="83045:83138" ph="SELECT COUNT... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="88864:88904" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="89921:89989" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="90289:90366" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="90781:90846" ph="SELECT comme... wp_comments" />
+            <marker date="1430929289000" expanded="true" signature="90996:91050" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1430929289000" expanded="true" signature="95585:95668" ph="SELECT comme... wp_comments" />
+            <marker date="1430929289000" expanded="true" signature="97495:97595" ph="UPDATE wp_co... " />
+            <marker date="1430929289000" expanded="true" signature="115072:115113" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="124893:124969" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="126020:126155" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="127251:127346" ph="SELECT post_... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="135899:135944" ph="SELECT pinge... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="137482:137527" ph="SELECT pinge... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="138113:138159" ph="SELECT to_pi... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="139612:139664" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="141603:141743" ph="SELECT ID, p... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="143230:143328" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="143389:143466" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="154539:154597" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="158734:158774" ph="SELECT * FRO... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="159855:159920" ph="SELECT comme... wp_comments" />
+            <marker date="1430929289000" expanded="true" signature="160071:160125" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1430929289000" expanded="true" signature="160692:160811" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1430929289000" expanded="true" signature="179688:179833" ph="SELECT post_... " />
+            <marker date="1430929289000" expanded="true" signature="179892:180033" ph="SELECT post_... " />
+            <marker date="1430929289000" expanded="true" signature="180094:180288" ph="SELECT DATE_... " />
+            <marker date="1430929289000" expanded="true" signature="190953:191063" ph="SELECT ID FR... wp_posts" />
+            <marker date="1430929289000" expanded="true" signature="192538:192594" ph="SELECT wp_po... wp_posts" />
+          </folding>
         </state>
       </provider>
     </entry>
